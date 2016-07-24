@@ -1,6 +1,7 @@
 import urllib
 from multiprocessing import Pool
 import requests
+import os
 
 spisok = ['http://google.com', 'http://yandex.ru', 'https://mail.ru']
 spisok1 = ['http://google.com', 'http://yandex.ru', 'https://mail.ru']
