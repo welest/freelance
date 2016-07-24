@@ -14,7 +14,7 @@ def dobav(*args):
 	spisokall.append(args)
 	spisokall.append(args)
 	spisokall.append(args)
-	spisokall.append(args)asd
+	spisokall.append(args)
 	spisokall.append(args)
 	return spisokall
 #	return x*x
